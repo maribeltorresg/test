@@ -1,0 +1,1 @@
+alert('fuera de oter y js');
